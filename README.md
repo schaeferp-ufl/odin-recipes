@@ -1,2 +1,2 @@
 ## Odin Recipe Practice Website
-to be edited later as a reflection on what I want from odin.
+The current project is to create a website with a home page that links to several different recipe pages. Since I have completed this project I have demonstrated the ability to create the normal html boiler-plate text, anchored links, embedded images, and ordered and unordered lists. (I also went slightly beyond and created nested lists).
